@@ -1,4 +1,4 @@
-# Ploty Dashborad Visualization for Patient Waiting Days
+## Ploty Dashborad Visualization for Patient Waiting Days
 
 **Toolkit:** Plotly/Dash, Bootstrap
 
