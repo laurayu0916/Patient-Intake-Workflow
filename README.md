@@ -8,4 +8,4 @@
 
 1. Calculate and Visualize the waiting days for each step during the international patient intake workflow. 
 2. Investigate the relationship between waiting days and inquery-to-patient conversion rate.
-3. Identify the bottlenecks in the workflow and propose recommendations to reduce average and standard deviation of waiting days for the bottleneck steps.
+3. Identify the bottlenecks in the workflow.
