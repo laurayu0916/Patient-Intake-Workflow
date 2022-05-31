@@ -2,7 +2,7 @@
 
 **Toolkit:** Plotly/Dash, Bootstrap
 
-**Goal:** Improve patient satisfaction and optimize the patient intake workflow. 
+**Goal:** Improve patient satisfaction and optimize the patient intake workflow by reducing patient waiting days. 
 
 **Steps:**
 
@@ -10,8 +10,12 @@
 2. Investigate the relationship between waiting days and inquery-to-patient conversion rate.
 3. Identify the bottlenecks in the workflow.
 
+**Business Use Case:** Once we identify the bottlenecks in our workflow, i.e. steps with high average waiting days, high standard deviations and are highly correlated to the conversion rate, we would propose recommendations to help reduce waiting days. 
+
 ## Project 2: Scraping US Visa Waiting Days
 
 **Toolkit:** Selemium
 
 **Goal:** Once people input a country name, the city names and visa waiting days will be automatically scraped from travel.state.gov.
+
+**Business Use Case:** Help the case managers and potential patients quickly check US Visa waiting days in particular countries. 
