@@ -12,6 +12,8 @@
 
 **Business Use Case:** Once we identify the bottlenecks in our workflow, i.e. steps with high average waiting days, high standard deviations and are highly correlated to the conversion rate, we would propose recommendations to help reduce waiting days. 
 
+**Demo Video:** https://www.youtube.com/watch?v=k9seF-lm9RY
+
 ## Project 2: Scraping US Visa Waiting Days
 
 **Toolkit:** Selemium
